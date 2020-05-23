@@ -145,7 +145,7 @@ if($_SESSION['hak_akses']!="Pegawai"){
 		</section>
 	</div>
 	<footer class="main-footer">
-	<center> ® Tugas Akhir 2020 | © Ardiansyah </center>
+	 <center> ® Tugas Akhir 2020 | © Ardiansyah </center>
 	</footer>
 </div>
 	<!-- ./wrapper -->
